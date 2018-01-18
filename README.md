@@ -15,9 +15,9 @@ npm init
 ###### In Command Line
 npm install mustache-express --save
 ###### In app.js
-..* const mustacheExpress = require('mustache-express')
-..* app.engine('mustache', mustacheExpress())
-..* app.set('view engine', 'mustache')
+* const mustacheExpress = require('mustache-express')
+* app.engine('mustache', mustacheExpress())
+* app.set('view engine', 'mustache')
 
 ### Install Express
 ###### In Command Line
