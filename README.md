@@ -9,8 +9,8 @@
 ###### In command line
 npm init
 ###### Require Path
-...const path = require('path')
-...This will help us with grabbing the extensions of the uploaded image. (jpg, pgn, etc)
+* const path = require('path')
+* This will help us with grabbing the extensions of the uploaded image. (jpg, pgn, etc)
 
 ### Install and Set up our view engine
 ###### In Command Line
