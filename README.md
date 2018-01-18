@@ -1,8 +1,9 @@
 ## Built With:
 1. Node JS
 2. Express JS
-3. Mustache Express
-4. Multer
+3. Sequelize
+4. Mustache Express
+5. Multer
 
 ### Install node_modules
 ###### In command line
